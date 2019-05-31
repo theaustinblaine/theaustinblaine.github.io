@@ -1,24 +1,24 @@
-/* Color Theme Swatches in Hex */
+/* Color Theme Swatches in Hex
 .Abu-Dhabi-1-hex { color: #026873; }
 .Abu-Dhabi-2-hex { color: #03A6A6; }
 .Abu-Dhabi-3-hex { color: #012623; }
 .Abu-Dhabi-4-hex { color: #A67458; }
 .Abu-Dhabi-5-hex { color: #0D0D0D; }
 
-/* Color Theme Swatches in RGBA */
+/* Color Theme Swatches in RGBA
 .Abu-Dhabi-1-rgba { color: rgba(2, 103, 114, 1); }
 .Abu-Dhabi-2-rgba { color: rgba(3, 165, 165, 1); }
 .Abu-Dhabi-3-rgba { color: rgba(0, 38, 34, 1); }
 .Abu-Dhabi-4-rgba { color: rgba(165, 116, 87, 1); }
-.Abu-Dhabi-5-rgba { color: rgba(12, 12, 12, 1); }
+.Abu-Dhabi-5-rgba { color: rgba(12, 12, 12, 1); } */
 
-/* Color Theme Swatches in HSLA */
+/* Color Theme Swatches in HSLA
 .Abu-Dhabi-1-hsla { color: hsla(185, 96, 22, 1); }
 .Abu-Dhabi-2-hsla { color: hsla(180, 96, 33, 1); }
 .Abu-Dhabi-3-hsla { color: hsla(174, 96, 7, 1); }
 .Abu-Dhabi-4-hsla { color: hsla(22, 30, 49, 1); }
-.Abu-Dhabi-5-hsla { color: hsla(0, 0, 5, 1); }
-
+.Abu-Dhabi-5-hsla { color: hsla(0, 0, 5, 1); } */
+ 
 
 .wrapper {
     font-family: 'Open Sans Condensed', sans-serif;
